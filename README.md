@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hypertomas of Tom Smith
+- 👋 Hi, I’m @hypertomas | Tom Smith
 - 👀 I’m interested in backend dev and ML
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on something cool
